@@ -1,7 +1,7 @@
 <h1 align="center">
     Hi <img src="./assets/Hi.gif" width="30px"><br>
     I'm <b>Senior Fullstack AI Engineer</b><br />
-    Welcome to <b>topdev0215</b>
+    Welcome to <b>RealParadise</b>
 
 </h1>
 
@@ -217,16 +217,6 @@
   <br />
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=topdev0215&theme=gotham&hide_border=true" />
 
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=topdev0215&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
-<br/>  
-
-<!-- My previous work -->
 
 
 <div align="center">
