@@ -200,27 +200,4 @@
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 </p>
 
-### PROJECTS AND DEV STUFF
-<b>⚡ Github Stats</b>
-    <br />
-    <p align="center">
-        <a href="https://github.com/topdev0215?tab=repositories">
-            <img width="54%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=topdev0215&theme=gotham&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-            <img width="45%" height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=topdev0215&theme=gotham&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact"/>
-        </a>
-    </p>
-
-</p>
-
-<b>☄️ Github Streaks</b>
-  
-  <br />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=topdev0215&theme=gotham&hide_border=true" />
-
-
-
-<div align="center">
-    <h2>Thanks for visiting <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h2>
-</div>
-
 
