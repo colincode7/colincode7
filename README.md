@@ -4,13 +4,6 @@
     Welcome to <b>RealParadise</b>
 
 </h1>
-
-<div align="center"> 
-    <a href="http://github.com/topdev0215?tab=followers">
-    <img alt="Followers" src="https://komarev.com/ghpvc/?username=topdev0215&color=blue"></a>
-    <a href="http://github.com/topdev0215?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/topdev0215?color=4C1&logo=github"></a>
-</div>
 <br>
 
 ### ABOUT ME
